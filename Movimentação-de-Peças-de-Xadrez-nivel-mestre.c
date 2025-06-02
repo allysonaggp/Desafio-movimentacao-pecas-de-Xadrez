@@ -1,3 +1,4 @@
+@@ -0,0 +1,71 @@
 #include <stdio.h>
 // Movimento da torre
 void torre(int numero)
